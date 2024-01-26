@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://rdmarket.com.ua/sitemap-ru.xml</loc>
+		<changefreq>weekly</changefreq>
+	</sitemap>
+	<sitemap>
+		<loc>https://rdmarket.com.ua/sitemap-ua.xml</loc>
+		<changefreq>weekly</changefreq>
+	</sitemap>
+</sitemapindex>
